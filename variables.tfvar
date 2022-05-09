@@ -1,0 +1,7 @@
+variable "rgname" {
+    default = "randomrg654789"
+}
+
+variable "nwname" {
+    default = "randomnw"
+}
